@@ -1,0 +1,8 @@
+{
+  "name": "bellify-propietario",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ad2ec035"
+}
